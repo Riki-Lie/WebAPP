@@ -1,0 +1,7 @@
+{
+    "name": "riki/myproject",
+	"description": "Proyek PHP sederhana menggunakan Composer",
+    "require": {
+        "twbs/bootstrap": "^5.3"
+    }
+}
